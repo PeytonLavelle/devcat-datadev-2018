@@ -3,7 +3,7 @@
     <head>
         <title>Add Record to DB</title>
     </head>
-<body>
+<body><!-- quick edit-->
 
 <h1>PHP INSERT to MySQL</h1>
 
